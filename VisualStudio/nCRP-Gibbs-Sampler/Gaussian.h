@@ -7,6 +7,9 @@
 using namespace std;
 using namespace arma;
 
+// this is super-class converted from Yee Wye Teh's Matlab implementation of Dirichlet processes
+// For Yee Wye Teh's Matlab implementation go to: https://www.stats.ox.ac.uk/~teh/software.html
+
 class Gaussian
 {
 public:
