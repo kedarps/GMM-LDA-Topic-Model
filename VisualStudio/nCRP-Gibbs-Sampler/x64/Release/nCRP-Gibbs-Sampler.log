@@ -1,0 +1,37 @@
+﻿  GibbsSampler.cpp
+CL : warning : detected 'min' and/or 'max' macros and undefined them;
+CL : warning : you may wish to define NOMINMAX before including any windows header
+GibbsSampler.cpp(21): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(25): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(31): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(32): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(42): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(43): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(44): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(50): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(51): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(52): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(55): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(63): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(66): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(67): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(92): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(95): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(98): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(99): warning C4244: 'argument': conversion from 'double' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(127): warning C4244: '=': conversion from 'double' to 'arma::uword', possible loss of data
+GibbsSampler.cpp(128): warning C4244: '=': conversion from 'double' to 'arma::uword', possible loss of data
+GibbsSampler.cpp(138): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(142): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(144): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(145): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(146): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(147): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+GibbsSampler.cpp(151): warning C4267: 'argument': conversion from 'size_t' to 'const arma::uword', possible loss of data
+     Creating library C:\Users\ksp6\documents\visual studio 2017\Projects\nCRP-Gibbs-Sampler\x64\Release\nCRP-Gibbs-Sampler.lib and object C:\Users\ksp6\documents\visual studio 2017\Projects\nCRP-Gibbs-Sampler\x64\Release\nCRP-Gibbs-Sampler.exp
+  Generating code
+  7 of 1245 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  nCRP-Gibbs-Sampler.vcxproj -> C:\Users\ksp6\documents\visual studio 2017\Projects\nCRP-Gibbs-Sampler\x64\Release\nCRP-Gibbs-Sampler.mexw64

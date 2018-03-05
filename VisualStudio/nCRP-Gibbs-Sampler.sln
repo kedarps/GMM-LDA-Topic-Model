@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nCRP-Gibbs-Sampler", "nCRP-Gibbs-Sampler\nCRP-Gibbs-Sampler.vcxproj", "{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Debug|x64.ActiveCfg = Debug|x64
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Debug|x64.Build.0 = Debug|x64
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Debug|x86.Build.0 = Debug|Win32
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Release|x64.ActiveCfg = Release|x64
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Release|x64.Build.0 = Release|x64
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Release|x86.ActiveCfg = Release|Win32
+		{E57B4FD4-90CD-4C20-9DA9-489B230F70BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
