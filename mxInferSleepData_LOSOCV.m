@@ -71,6 +71,3 @@ for f = 1:2
         end
     end
 end
-
-
-
